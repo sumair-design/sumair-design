@@ -11,7 +11,7 @@
 - Containers: Docker
 - CI/CD: GitHub Actions
 - IaC: Terraform
-- OS: Linux
+- OS: Linux,Windows
 
 ---
 
@@ -34,10 +34,10 @@
 ---
 
 ## 📊 GitHub Stats
-(Add later using tools)
+
 
 ---
 
 ## 📫 Contact
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn:https://www.linkedin.com/in/mohammed-sumair-ahmed-70a518332/
+- Email: mohammedsumair38@gmail.com
