@@ -1,6 +1,6 @@
-# Hi, I'm Sumair 👋
+# Hi, I'm Mohammed Sumair Ahmed👋
 
-🚀 Aspiring DevOps & Cloud Engineer  
+🚀 Cloud Engineer  
 💻 Skilled in AWS, Docker, CI/CD, Terraform  
 📍 Focused on building scalable and automated systems  
 
@@ -33,10 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
----
 
 ## 📫 Contact
 - LinkedIn:https://www.linkedin.com/in/mohammed-sumair-ahmed-70a518332/
-- Email: mohammedsumair38@gmail.com
+- Email: msumairahmed2026@gmail.com
