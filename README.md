@@ -35,5 +35,5 @@
 
 
 ## 📫 Contact
-- LinkedIn:(https://www.linkedin.com/in/sumair38/)
+- LinkedIn:https://www.linkedin.com/in/sumair38/
 - Email: msumairahmed2026@gmail.com
